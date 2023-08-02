@@ -1,7 +1,10 @@
 # machine_learning_project-unsupervised-learning
 
 ## Project Outcomes
-- Unsupervised Learning: perform unsupervised learning techniques on a wholesale data dataset. The project involves four main parts: exploratory data analysis and pre-processing, KMeans clustering, hierarchical clustering, and PCA.
+- Perform exploratory data Analysis on the wholesales data dataset to draw insights about data
+- preprocess data for modelling
+- Use unsupervised learning models on the wholesale data dataset, specifically Kmeans and hierarchical clustering
+- Carry out a principal component analysis
 ### Duration:
 Approximately 1 hour and 40 minutes
 ### Project Description:
