@@ -1,6 +1,6 @@
 # machine_learning_project-unsupervised-learning
 
-## Project Outcomes
+## Project Goals
 - Perform exploratory data Analysis on the wholesales data dataset to draw insights about data
 - preprocess data for modelling
 - Use unsupervised learning models on the wholesale data dataset, specifically Kmeans and hierarchical clustering
